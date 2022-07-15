@@ -66,7 +66,7 @@ header p#aboutMe {
 
 section#habilits {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 50rem;
 
   gap: 5rem;
 }
@@ -94,6 +94,7 @@ section .box-content ul li {
 
 section .box-content ul li a {
   text-decoration: underline;
+  font-size: 1.5rem;
   color: blue;
 
   font-weight: bold;

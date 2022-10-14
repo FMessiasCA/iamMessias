@@ -142,6 +142,7 @@ footer #button:hover {
 
 footer p {
   line-height: 2.5;
+  color: red;
 
   padding: 3.4rem 0 2.8rem 0;
 }

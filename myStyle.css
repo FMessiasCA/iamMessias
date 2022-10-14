@@ -77,6 +77,8 @@ section .box-content {
   border: 2px solid #9400d3;
   border-radius: 15px;
 
+  width: 80%;
+
   padding: 1rem;
 }
 
